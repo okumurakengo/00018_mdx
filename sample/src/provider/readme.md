@@ -4,5 +4,4 @@ npm i
 npx webpack-dev-server
 ```
 
-http://localhost:9000/import-component
-
+http://localhost:9000/provider
